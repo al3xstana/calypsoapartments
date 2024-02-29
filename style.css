@@ -411,6 +411,7 @@ body {
     padding:0 15px;
 }
 ul{
+    padding-inline-start:0px;
     list-style:none;
 }
 @media(max-width:767px){
