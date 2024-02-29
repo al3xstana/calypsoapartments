@@ -411,7 +411,7 @@ body {
     padding:0 15px;
 }
 ul{
-    padding-inline-start:0px;
+	padding-inline-start:0px;
     list-style:none;
 }
 @media(max-width:767px){
@@ -602,7 +602,7 @@ padding-bottom: 50px;
     list-style:none;
 	padding:0;
 }
-.footer-col h4{
+.footer-col .h4{
     font-size: 18px;
     color:#ffffff;
     text-transform: capitalize;
@@ -610,7 +610,7 @@ padding-bottom: 50px;
     font-weight: 500 ;
     position: relative;
 }
-.footer-col h4::before{
+.footer-col .h4::before{
     content:'';
     position: absolute;
     left:0;
